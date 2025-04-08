@@ -75,7 +75,7 @@ The app overwrites students.xlsx each time it's generated.
 
 🙋‍♂️ Author
 Your Name
-GitHub: @your-username
+GitHub: @hammadhk
 
 📃 License
 This project is open-source and available under the MIT License.
